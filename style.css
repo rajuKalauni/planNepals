@@ -1,0 +1,313 @@
+#head{
+    background: #088F33;
+}
+.head-top ul li{
+  list-style: none;
+}
+.head-top ul li a{
+    color: white;
+    text-decoration: none;
+   
+ }
+ .head-icon ul{
+   list-style: none;
+   padding-top: 5px;
+  
+ }
+ .head-icon ul li{
+    display: inline; 
+  }
+  .head-icon ul li i{
+    color: white;
+    padding-top: 5px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  .head-icon ul li i:hover{
+    color: blue;
+  }
+  .head-phone-mail ul{
+    list-style: none;
+   padding-top: 5px;
+  }
+  .head-phone-mail ul li{
+    display: inline; 
+    color: white;
+    margin-left: 5px;
+    font-size: 13px;
+  }
+
+  #navbar{
+    background:#0B732B;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link{
+    color: white;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link:hover{
+   background-color: orange;
+  }
+  .dropdown-item:hover{
+    background-color: orange;
+  }
+ #sanjivkt{
+    margin-left: 200px;
+    color: white;
+    top: 180px;
+    right: 0%;
+ }
+ #sanjivkt a{
+    color: white;
+    background: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+ }
+ #sanjivkt a:hover{
+    background:  #088F33;
+ }
+ #dropsan{
+    border: 1px solid black;
+ }
+ #dropsan:hover{
+    background:#088F33;
+ }
+
+
+
+ .bannerbtn{   
+    top: 450px;
+    left: 250px;
+ }
+#headsecond{
+    background-color: rgb(199, 193, 193);
+    width: 100%;
+   padding: 30px 0;
+}
+.headsecond-drop{
+    border: 1px solid black;
+    background: white;
+
+}
+.headsecond-drop:hover{
+    background: #088F33;
+}
+ .sanjivkumar{
+   padding-right: 30px;
+ }
+.drop-a a{
+    text-decoration: none; 
+    color: white; 
+}
+.drop-a{
+    
+    background-color: orange;
+    margin-left: 20px;
+    padding: 10px 15px;
+    text-align: center;
+}
+.drop-a:hover{
+    background-color: #0B732B;
+    
+}
+.drop-seach{
+    background-color:  #0B732B;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+   
+}
+
+
+
+#welcome h1{
+text-transform: uppercase;
+background: #088F33;
+width: 60%;
+font-size: 18px;
+font-weight: bold;
+color: white;
+padding: 10px 10px;
+margin-bottom: 30px;
+
+}
+#welcome p{
+    color: gray;
+    padding-bottom: 20px;
+}
+.botton a{
+    color: white;
+    text-decoration: none;
+    background: rgb(232, 153, 4);
+    padding: 10px 30px;
+    margin-left: 550px;
+
+}
+.botton a:hover{
+   background: #088F33;
+}
+#welcome ul{
+    list-style: none;
+    
+}
+
+#welcome ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+    
+}
+#welcome ul li a:hover{
+    text-decoration: underline;
+    
+}
+#SPECIALITIES h1{
+    color: #088F33;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+#hero img{
+    object-fit: cover;
+    width: 100%;
+
+}
+#hero img:hover{
+    transform: scale(1.1) ; 
+}
+#hero a{
+    left: 1px;
+    bottom: 20px;
+    background: orange;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+}
+#hero a:hover{
+    background: #088F33;
+}
+.trip h1{
+    color: #088F33;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.trip-show{
+    margin: 0px 100px;
+    padding-top: 10px;
+}
+.trip-a{
+    background-color: orange;
+    color: white;
+    padding: 8px 0;
+}
+.trip-b{
+    background-color: #088F33 ;
+    color: white;
+    padding: 8px 0;
+}
+.trip-b:hover{
+    background: orange;
+    
+}
+#trip2 img{
+    object-fit: cover;
+    width: 100%;
+    
+
+}
+#trip2 img:hover{
+    opacity: 0.6;
+}
+#trip2 ul{
+    list-style-type: none;
+    position: absolute;
+    bottom: 2px;
+    left: 0;
+    margin: 0;
+    text-transform: uppercase; 
+    width: 100%; 
+    
+}
+#trip2 ul li{
+    display: inline;
+}
+
+#trip2 ul li.trip-nepal{
+    background: #088F33;
+     width: 80%;
+    color: white;
+    padding: 4px 0;
+   
+}
+#trip2 ul li.trip-day{
+    background: orange;
+    color: white;
+    width: 20%;
+    padding: 4px 15px;
+   
+}
+#testimonial h1{
+    color: #088F33;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#footer-head-para h1{
+    color: white;
+    font-size: 16px;
+    padding-bottom: 15px;
+  }
+  #footer-head-para h2{
+    color: white;
+    font-size: 20px;
+    padding-top: 55px;
+    text-align: center;
+  }
+  #footer-head-para p{
+      color: gainsboro;
+      padding-block: 8px;
+    }
+    #footer-head-para a{
+      color: gainsboro;
+      text-decoration: none;
+      display: block;
+      padding-block: 5px;
+      
+    } 
+    #footer-head-para a:hover{
+     color: orange;
+     transform: scale(0.9) ; 
+    } 
+   
+    #footer-head-para h3{
+        font-size: 14px;
+        color: white;
+        padding: 10px 0;
+        text-align: center;
+    }
+    #footer-head-para ul li img{  
+        max-width: 300%;
+        height: auto;
+    
+    }
+    .f-btn {
+        color: white;
+        background-color: orange;
+        padding: 10px 15px;
+        width: 65%;
+        margin-top: 10px;
+    }
+    .f-btn:hover{
+        background-color: #088F33;
+    }
+
+#last-part h1{
+   font-size: 14px; 
+   float: left !important;
+   color: white;
+   padding: 15px 0;
+   text-align: center;
+ }
